@@ -16,10 +16,11 @@ Next, install the application dependencies.
 
 	cd burger
 	npm install
-  npm init
-  npm install express
-  npm install express=handlebars
-  npm install mysql
+  
+  * npm init
+  * npm install express
+  * npm install express=handlebars
+  * npm install mysql
 	
 Finally, run the node server locally.
 
