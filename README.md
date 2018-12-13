@@ -27,3 +27,6 @@ Finally, run the node server locally.
 	node server
 	
 Now, open the local application on port 8080 at the URL: `http://localhost:8080/`.
+
+# Copyright
+ (C) Chehlsee 2018. All Rights Reserved.
